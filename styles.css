@@ -6,6 +6,12 @@ h2 {
     color: white;
 }
 
+h4 {
+    font-family: 'Roboto';
+    margin: 0px;
+    color: rgb(122, 122, 122);
+}
+
 h5 {
     font-family: 'Roboto';
     margin: 0px;
