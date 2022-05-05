@@ -74,6 +74,7 @@ button:hover {
 .ratingText {
     display: flex;
     flex-direction: column;
+    gap: 10px;
 }
 
 .thankYouText {
@@ -91,7 +92,7 @@ button:hover {
     display: flex;
     justify-content: center;
     align-items: center;
-    background: rgb(56, 56, 75, 0.3);
+    background: rgba(56, 56, 75, 0.3);
     width: 40px;
     height: 40px;
     border-radius: 50px;
@@ -102,8 +103,8 @@ button:hover {
     cursor: pointer;
 }
 
-.circleBackground:focus {
-    background: rgb(252, 124, 5);
+.circleBackground:focus{
+    background: rgba(252, 124, 5, 1);
 }
 
 .finalRating {
@@ -165,6 +166,6 @@ button:hover {
     margin-bottom: 25px;
 }
 
-#text {
+#finalRating {
     color: rgb(252, 124, 5);
 }
