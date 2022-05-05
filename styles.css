@@ -99,12 +99,12 @@ button:hover {
 }
 
 .circleBackground:hover {
-    background: rgba(154, 154, 196);
+    background: rgba(252, 124, 5);
     cursor: pointer;
 }
 
 .circleBackground:focus{
-    background: rgba(252, 124, 5, 1);
+    background: rgba(154, 154, 196);
 }
 
 .finalRating {
